@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+PJw3ZKUmgqHyt43IANZ/Kl66Ls7qwhcHaW9UjDZkydNRsH5qcfCUSHpEQjPhnyYJwRJ9Z0XAJuM/uW1MANOGg==",
+  "dgSpecHash": "2z22Ulk3j/ZD/EYQ9xc9pOv+vyvHfMWmOwLS8/87QubVYpAG+Tywa/3i8YDmcJxWtCPEDF6BzAbPE+bk+j4xbw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leonardo.xavier\\Documents\\dotNet\\Calculadora\\Calculadora\\Calculadora.csproj",
+  "projectFilePath": "C:\\Users\\leonardo.xavier\\Documents\\dotNet\\Estudando-C-\\Calculadora\\Calculadora\\Calculadora.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leonardo.xavier\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
   ],
